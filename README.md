@@ -16,6 +16,6 @@ Example-1            |  Example-2
 
 
 
-## Installation 
+## Installation and Run
 ***
-The installation process is the same as one that explained in [Udacity github repository](https://github.com/rayryeng/SFND_Lidar_Obstacle_Detection).
+The installation and run processes are the same as one that explained in [Udacity github repository](https://github.com/rayryeng/SFND_Lidar_Obstacle_Detection).
